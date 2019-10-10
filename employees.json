@@ -1,0 +1,62 @@
+[
+	{
+		"employeeID": "1",
+		"name": "Andre Torrealba",
+		"salary": "60k",
+		"dptName": "MMX"
+	},
+	{
+		"employeeID": "2",
+		"name": "Lovepreet Singh Thind",
+		"salary": "100k",
+		"dptName": "MMV"
+	},
+	{
+		"employeeID": "3",
+		"name": "Braxton Jackson",
+		"salary": "120k",
+		"dptName": "Corporate"
+	},
+	{
+		"employeeID": "4",
+		"name": "Rafael Botello",
+		"salary": "70k",
+		"dptName": "MMX"
+	},
+	{
+		"employeeID": "5",
+		"name": "Jonathan Morales",
+		"salary": "80k",
+		"dptName": "Corporate"
+	},
+	{
+		"employeeID": "6",
+		"name": "Lucy Yang",
+		"salary": "200k",
+		"dptName": "OG"
+	},
+	{
+		"employeeID": "7",
+		"name": "Christiam Hernandez",
+		"salary": "150k",
+		"dptName": "MMV"
+	},
+	{
+		"employeeID": "8",
+		"name": "Walter Marikwa",
+		"salary": "50k",
+		"dptName": "MMV"
+	},
+	{
+		"employeeID": "9",
+		"name": "AJ Blocker",
+		"salary": "95k",
+		"dptName": "MMX"
+	},
+	{
+		"employeeID": "10",
+		"name": "Lenny Dickey",
+		"salary": "60k",
+		"dptName": "Corporate"
+	}
+]
